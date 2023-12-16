@@ -94,7 +94,7 @@ int main(void)
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
-	  printf("Visan");
+	  printf("Visantron");
   }
   /* USER CODE END 3 */
 }
