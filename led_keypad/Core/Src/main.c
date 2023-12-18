@@ -94,7 +94,10 @@ int main(void)
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
-	  printf("Visantron change at git from gaurav 3333 from gggggggggg");
+~
+=======
+	  printf("Visantron change at git from gaurav 3333 from visan");
+>>>>>>> Stashed changes
   }
   /* USER CODE END 3 */
 }
